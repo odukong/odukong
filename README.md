@@ -1,4 +1,5 @@
-![Frame 3](https://github.com/odukong/odukong/assets/91336314/c135a3ec-8564-4054-b9e2-d810b867600b)
+![gifImage](https://github.com/odukong/odukong/assets/91336314/284bb5a5-7969-4f01-9716-c8291afdf3f4)
+
 
 ## Frontend Developer 오수빈입니다🐤
 꾸준함을 토대로 하여 매일 성장해나가는 새싹 개발자입니다.
@@ -21,7 +22,6 @@
     &nbsp;<img
       src="https://img.shields.io/badge/ohbin1017@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
 </a>
-
----
+<br/>
 
 ![odukong's GitHub stats](https://github-readme-stats.vercel.app/api?username=odukong&show_icons=true&theme=radical) &nbsp;
