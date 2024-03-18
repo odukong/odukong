@@ -32,4 +32,3 @@
 ---
 
 ![odukong's GitHub stats](https://github-readme-stats.vercel.app/api?username=odukong&show_icons=true&theme=radical) &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odukong&layout=compact)
