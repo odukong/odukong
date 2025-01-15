@@ -1,7 +1,7 @@
 ![gifImage](https://github.com/odukong/odukong/assets/91336314/284bb5a5-7969-4f01-9716-c8291afdf3f4)
 
 
-## Frontend Developer 오수빈입니다🐤
+## Frontend Developer 오수빈입니다
 꾸준함을 토대로 하여 매일 성장해나가는 새싹 개발자입니다.
 
 ### Experience
@@ -14,10 +14,15 @@
 - **K-DUCK** : k-pop 아이돌 팬덤을 위한 통합 덕질 웹 사이트 <sub>(2023/09~)</sub>
 
 ### Tech Stack
+
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp;
+<img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
+
+<img src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styledcomponents&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
 
 ### Contact
 <a href="ohbin1017@gmail.com">
