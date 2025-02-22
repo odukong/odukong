@@ -12,7 +12,6 @@
 ### Project
 - **U.M.C(UMC Matching Center)** : UMC 내 프로젝트 매칭 서비스 <sub>(2023/09~2024/02)</sub>
 - **YES (your events)** : 프라이빗 초대장 서비스 <sub>(2024/12~2025/02)</sub>
-- **K-DUCK** : k-pop 아이돌 팬덤을 위한 통합 덕질 웹 사이트 <sub>(2023/09~)</sub>
 
 ### Tech Stack
 
