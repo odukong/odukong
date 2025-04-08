@@ -12,6 +12,7 @@
 ### Project
 - **U.M.C(UMC Matching Center)** : UMC 내 프로젝트 매칭 서비스 <sub>(2023/09~2024/02)</sub>
 - **YES (your events)** : 프라이빗 초대장 서비스 <sub>(2024/12~2025/02)</sub>
+- **Omni-Card** : 2025-1 가천대학교 컴퓨터공학과 졸업작품, 맞춤 카드혜택 제공 서비스 <sub>(2025/04~)</sub>
 
 ### Tech Stack
 
@@ -19,6 +20,7 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp;
 <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
 
+<img src="https://img.shields.io/badge/emotion-C43BAD.svg?style=for-the-badge" />&nbsp;
 <img src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styledcomponents&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
