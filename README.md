@@ -7,7 +7,7 @@
 ### Experience
 - **UMC**(University MakeUs Challenge) 5기 Web <sub>(2023/09~2024/02)</sub>
 - 가천대학교 **Leets** 4기 Frontend <sub>(2024/09~2025/02)</sub>
-- **GDG on Campus** 24-25 Member <sub>(2024/09~)</sub>
+- **GDG on Campus** 24-25 Member <sub>(2024/09~2025/06)</sub>
 
 ### Project
 - **U.M.C(UMC Matching Center)** : UMC 내 프로젝트 매칭 서비스 <sub>(2023/09~2024/02)</sub>
