@@ -19,6 +19,7 @@
 - **UMC**(University MakeUs Challenge) 5기 Web <sub>(2023/09~2024/02)</sub>
 - 가천대학교 **Leets** 4기 Frontend <sub>(2024/09~2025/02)</sub>
 - **GDG on Campus** 24-25 Member <sub>(2024/09~2025/06)</sub>
+- **SOPT** 37기 WEB <sub>(2025/09~)</sub>
 
 ### Project
 | Project | Description | Tech Stack |
