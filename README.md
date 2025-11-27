@@ -3,7 +3,7 @@
 
 
 ## Frontend Developer 오수빈입니다
-꾸준함을 토대로 하여 매일 성장해나가는 개발자입니다.
+꾸준함을 토대로 매일 성장해나가는 개발자입니다.
 
 ### Tech Stack
 
@@ -31,10 +31,7 @@
 
 
 ### Contact
-<a href="ohbin1017@gmail.com">
-    &nbsp;<img
-      src="https://img.shields.io/badge/ohbin1017@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-</a>
-<br/>
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ohbin1017@gmail.com)](mailto:ohbin1017@gmail.com)
+ [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ohbin1017@naver.com)](mailto:ohbin1017@naver.com)
 
-![odukong's GitHub stats](https://github-readme-stats.vercel.app/api?username=odukong&show_icons=true&theme=radical) &nbsp;
+![odukong's GitHub stats](https://github-readme-stats.vercel.app/api?username=odukong&show_icons=true&theme=buefy) &nbsp;
