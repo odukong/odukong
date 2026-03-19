@@ -1,7 +1,3 @@
-![깃허브 대문](https://github.com/user-attachments/assets/5b3f6e75-1703-4fc4-a5a3-880a1ae95aa5)
-
-
-
 ## Frontend Developer 오수빈입니다
 꾸준함을 토대로 매일 성장해나가는 개발자입니다.
 
@@ -24,7 +20,7 @@
 ### Project
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🔗 U.M.C(UMC Matching Center)](https://github.com/UMC-Matching-Center/U.M.C_Web) | UMC 내 프로젝트 매칭 서비스 <sub>(2023/09~2024/02)</sub> | React, JavaScript, styled-component, redux, react-markdown |
+| [🔗 U.M.C(UMC Matching Center)](https://github.com/UMC-Matching-Center/U.M.C_Web) | UMC 내 프로젝트 매칭 서비스 <sub>(2023/12~2024/02)</sub> | React, JavaScript, styled-component, redux, react-markdown |
 | [🔗 YES (your events)](https://github.com/Leets-Official/Yes-FE) | 프라이빗 초대장 커스텀 서비스 <sub>(2024/12~2025/02)</sub> |  React, TypeScript, styled-components, recoil, react-error-boundary |
 | [🔗 Omni-Card](https://github.com/2025-Gachon-capstone) | 소비자 맞춤 카드혜택 제공 서비스 <sub>(2025/04~2025/08)</sub> | React, TypeScript, @emotion/styled, zustand, @tosspayments/payment-widget-sdk |
 | [🔗 Comfit](https://github.com/TEAM-COMFIT/COMFIT-CLIENT) | 기업과 나를 잇는 자소서 작성 가이드 <sub>(2025/12~)</sub> | React, TypeScript, @vanilla-extract, zustand, @tanstack/react-query, swagger-typescript-api,  |
