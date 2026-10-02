@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Grandiflora+One&duration=2000&pause=1000&color=F71D4B&background=FFD0D027&vCenter=true&multiline=true&repeat=false&width=312&height=40&lines=%E2%8B%86%EF%BD%A1+Lucky+in+Subin's+github+%E2%8B%86%EF%BD%A1%CB%9A%E2%98%BD%CB%9A%EF%BD%A1%E2%8B%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Grandiflora+One&duration=3000&pause=1000&color=F71D4B&background=FFD0D027&vCenter=true&multiline=true&repeat=false&width=312&height=40&lines=%E2%8B%86%EF%BD%A1+Lucky+in+Subin's+github+%E2%8B%86%EF%BD%A1%CB%9A%E2%98%BD%CB%9A%EF%BD%A1%E2%8B%86)](https://git.io/typing-svg)
 
 
 <table border="0" style="border-collapse: collapse; border: none;">
