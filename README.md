@@ -13,6 +13,7 @@
       <p><b>Frontend</b></p>
       <img src="https://img.shields.io/badge/Next.js-CFD8DC?style=flat-square&logo=nextdotjs&logoColor=263238" alt="Next.js" />
       <img src="https://img.shields.io/badge/React-80DEEA?style=flat-square&logo=react&logoColor=37474F" alt="React" />
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
     </td>
   </tr>
 </table>
